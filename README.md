@@ -1,6 +1,19 @@
 ###Planorama-Github
 The ultimate Planner for all your events.
 
+<!-- Added the Team section -->
+## 👥 Team
+
+| ![Yash Vashishth](https://avatars.githubusercontent.com/u/182007051?s=200&u=488aa41d4402ee85fc5c90772197d5f035443dbc&v=4)|
+|:--:|
+| **Yash Vashishth** <br>| 
+| [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](https://www.linkedin.com/in/yash-vashishth-6075792a8/) |
+
+| ![Beenish Uvais](https://avatars.githubusercontent.com/u/182007051?s=200&u=488aa41d4402ee85fc5c90772197d5f035443dbc&v=4)|
+|:--:|
+| **Beenish Uvais** <br>| 
+| [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](https://www.linkedin.com/in/beenish-uvais/) |
+
 ###Introduction
 Welcome to Planorama, the event management system designed to streamline the process of creating, managing, and attending events. With a focus on user experience, Planorama offers a range of features to make event planning and participation seamless and engaging.
 
