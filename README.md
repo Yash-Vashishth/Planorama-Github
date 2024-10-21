@@ -1,7 +1,7 @@
 <html>
   <div align="center">
 
-# 🎨 Planorama 🖌️
+# 🗓️ Planorama 🖌️
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Distressed&size=32&pause=1000&background=E0E7FF00&vCenter=true&random=true&width=435&lines=Welcome+to+Planorama+!)](https://git.io/typing-svg)
 </div>
 
