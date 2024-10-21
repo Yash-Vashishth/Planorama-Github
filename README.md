@@ -25,17 +25,29 @@ Truth-Tunnel is built using the following technologies:
   - Express.js
 - **Database**:
   - MongoDB
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+ <h2> <img src="https://github.com/Yash-Vashishth/Planorama-Github/blob/main/imgsrc/icons8-bursts.gif" width="35px" height="38">Team Members </h2>
+ Team members involved in this endeavour:
+ <ul>
+ <li><b>Yash Vashishth</li>
+ <li>Shubh Bhaskar</li>
+ <li>Beenish Uvais</li>
+ <li>Shivam Kumar Jha</b></li>
+ </ul>
+ 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <h2> <img src="https://github.com/Yash-Vashishth/Planorama-Github/blob/main/imgsrc/icons8-tools.gif" width="35px" height="38">Installation </h2>
 
-Follow these steps to set up Truth-Tunnel locally:
+Follow these steps to set up Planorama locally:
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MitulSonagara/truth-tunnel.git
-cd truth-tunnel
+git clone https://github.com/Yash-Vashishth/Planorama-Github.git
+cd planorama-github
 ```
 
 2. Install dependencies:
@@ -69,6 +81,12 @@ npm run build
 ```bash
 npm start
 ```
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<!-- Added a Support section for the project README -->
+<h2> ⭐️ Support the Project</h2>
+If you find this project helpful, please consider giving it a ⭐ on GitHub! Your support helps to grow the project and reach more individuals and organizations.
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
