@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Button } from './Button';
-import { HeroText } from './HeroText';
+import { HeroText } from './components/HeroText'; 
 
 export const PlanoramaHero: React.FC = () => {
   return (
