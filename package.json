@@ -13,5 +13,8 @@
   },
   "devDependencies": {
   "jest": "^27.0.0"
+  },
+  "jest": {
+  "testMatch": ["**/?(*.)+(spec|test).[tj]s?(x)"]
   }
 }

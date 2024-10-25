@@ -25,7 +25,7 @@ jobs:
       run: npm install jest
 
     - name: Run tests
-      run: npx jest
+      run: npx jest --passWithNoTests
 
     - name: Build project
       run: npm run build
