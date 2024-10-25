@@ -21,8 +21,11 @@ jobs:
     - name: Install dependencies
       run: npm install
 
+    - name: Install jest
+      run: npm install jest
+
     - name: Run tests
-      run: npm test
+      run: npx jest
 
     - name: Build project
       run: npm run build
@@ -34,4 +37,4 @@ jobs:
         curl -X POST https://api.ondemand.com/deploy \
         -H "Authorization: Bearer $ONDEMAND_API_KEY" \
         -F "repository=$(basename $GITHUB_REPOSITORY)" \
-        -F "branch=main" \
+        -F "branch=main"
