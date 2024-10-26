@@ -1,10 +1,8 @@
 import React from 'react';
-import NavBar from './components/NavBar';
 import LandingPage from './components/LandingPage';
 import Marquee from './components/Marquee';
 import About from './components/About';
 import Eyes from './components/Eyes';
-import StartProject from './components/StartProject';
 import Footer from './components/Footer';
 import LocomotiveScroll from 'locomotive-scroll';
 import './styles/index.css';
