@@ -5,9 +5,9 @@ const About = () => {
     <div data-scroll data-scroll-speed='-.2' className="w-full py-20 bg-[#cdea68] rounded-t-3xl text-zinc-900">
       <div className="px-[5.922vw]">
         <p className="text-[3.65vw] leading-none w-[90%]">
-          Ochi is a strategic partner for fast-growing tech businesses that need
-          to raise funds, sell products, explain complex ideas, and hire great
-          people.
+          PLanorama is a chatbot that helps you to plan your events and orgainze your tasks in a user-friendly way. 
+          It allows ease of organizing tasks and events in a more efficient way. and it is a great way to keep track 
+          of your events and tasks.
         </p>
       </div>
       {/* ******************************************************************************************* */}
