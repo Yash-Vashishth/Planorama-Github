@@ -5,7 +5,7 @@ import About from './components/About';
 import Eyes from './components/Eyes';
 import Footer from './components/Footer';
 import LocomotiveScroll from 'locomotive-scroll';
-import './styles/index.css';
+
 
 
 const App = () => {
